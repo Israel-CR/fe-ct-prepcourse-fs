@@ -159,7 +159,7 @@ function todosIguales(array) {
       if (array[i]== numero){
          continue;
       }else {
-         iguales= false
+         iguales= false;
          break;
       }
    }
